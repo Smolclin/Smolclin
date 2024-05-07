@@ -1,4 +1,4 @@
-### Hi there 👋 am Clin smol but many might come to know me as ugly monk
+### Hi there 👋 am Clin smol
 
 🔭 I’m currently working on improving my coding skills and
 🌱 I’m A student at ALX Software Engineerig program
